@@ -1,4 +1,4 @@
-**Univerzitet "Dzemal Bijedic" u Mostaru // Programiranje I**
+**Univerzitet "Dzemal Bijedic" u Mostaru // FIT // Programiranje I**
 
 Napisati program koji simulira bacanje 3 kockice (jedna kockica ima 6 strana i na tim stranama su brojevi 1 - 6). 
 Simuliranje bacanja svake kockice ostvariti funkcijom rand() % 6 + 1. 
@@ -7,7 +7,7 @@ Ispisati koliko je ukupno bilo bacanja dok se nije ispunio navedeni uslov. Nije 
 
 --English--
 
-**University "Dzemal Bijedic" of Mostar // Programming I**
+**University "Dzemal Bijedic" of Mostar // FIT //Programming I**
 
 Write a program that simulates rolling 3 dice (each die has 6 faces with numbers from 1 to 6).
 Simulate the roll of each die using the function rand() % 6 + 1.
